@@ -1,0 +1,10 @@
+/.env
+/chromedriver.exe
+/credentials.json
+/error_Deskripsi_Capaian.png
+/error_Deskripsi_Kegiatan.png
+/error_general.png
+/extracted_text_debug.txt
+/google_creds.json
+/surat.py
+/test.pdf
